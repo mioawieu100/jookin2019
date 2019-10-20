@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "token": "NjI4NDE3NjU5NzcxMjg5NjIx.XauufQ.4E_GQDKXXpDUd3x9W6bgxYYVRJE",
+    "ownerID": "321012414789320705",
+    "Interval":9999
+}
